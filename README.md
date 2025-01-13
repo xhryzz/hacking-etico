@@ -2,7 +2,7 @@
 
 ![portada](./img/portada.jpeg)
 
-[![Mi Web Personal](https://xhryzz.github.io/web)]
+[Mi Web Personal](https://xhryzz.github.io/web)
 
 ## Introducción
 

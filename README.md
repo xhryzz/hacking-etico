@@ -1,6 +1,5 @@
 # Recursos de Hacking Ético
 
-![portada](https://es.gridinsoft.com/blogs/wp-content/uploads/2021/11/arrest-Kaseya-hacker.jpg)
 
 [Mi Web Personal](https://xhryzz.github.io/web)
 
